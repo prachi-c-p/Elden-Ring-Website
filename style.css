@@ -1,0 +1,28 @@
+/*Importing Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+
+* {
+  font-family: "IM Fell English SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+  background-color: #1b0f02;
+  color: rgb(166, 128, 78);
+}
+
+a {
+  color: rgb(213, 209, 158); 
+}
+
+.gamename{
+  text-align: center;
+  font-size: 50px;
+}
+
+.1stpage{
+  position: relative;
+  height:100vh;
+  overflow: hidden;
+}
